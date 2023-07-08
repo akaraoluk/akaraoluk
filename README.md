@@ -5,22 +5,29 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdurrahmankaraoluk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <p align="center" >
+  <span align="left">
+    <a href="https://akaraoluk.github.io" target="blank">
+      <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="web" />
+    </a>
+  </span>
+  <span align="center">
+    <a href="https://www.linkedin.com/in/abdurrahmankaraoluk/" target="blank">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+  </span>
+</p>
+
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Abdurrahman from Türkiye<br><br>- 🔭 I’m working as iOS Developer<br>- 📚 I'm currently learning SwiftUI</p>
+<p align="left">I'm Abdurrahman from Türkiye<br><br>- 🔭 I’m working as iOS Developer at Akbank via OBSS<br>- 📚 I'm currently learning SwiftUI</p>
 
 ###
 
