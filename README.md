@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Abdurrahman from Türkiye<br><br>-📚 I'm currently learning SwiftUI</p>
+<p align="left">I'm Abdurrahman from Türkiye<br><br>-📚 I'm currently learning new things</p>
 
 ###
 
