@@ -9,7 +9,7 @@
 <div align="left">
   <p align="left" >
   <span align="left">
-    <a href="https://akaraoluk.github.io" target="blank">
+    <a href="https://akaraoluk.dev" target="blank">
       <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="web" />
     </a>
   </span>
