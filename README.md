@@ -1,5 +1,5 @@
 <div style="background-color:#38E2B6;" width="100%" align="center">
-  <img height="200" src="./apple.png"  />
+  <img width="100%" src="./bg.jpg"  />
 </div>
 
 ###
